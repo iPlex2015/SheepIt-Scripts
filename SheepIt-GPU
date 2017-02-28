@@ -12,8 +12,10 @@
 
 # Variables
 
-UsernameVariable=""
-PasswordVariable=""
+UsernameVariable="Put-Your-SheepIt-Username-Here"
+PasswordVariable="Put-Your-SheepIt-Password-Here"
+
+# Leave the quotes in place!^^^^
 
 
 # Functions
